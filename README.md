@@ -16,3 +16,14 @@ A robust 2D/3D interaction system where AI enemies react to real-time microphone
 - **Engine:** Unity 6
 - **Language:** C#
 - **AI:** NavMesh System
+
+### Project Screenshots
+
+| Description | Image |
+| :--- | :--- |
+| Project Hierarchy | ![Hierarchy](images/Hierarchy.png) |
+| Player Inspector | ![Player](images/Player.png) |
+| Enemy Inspector | ![Enemy](images/Enemy.png) |
+| Ground & NavMesh | ![Ground](images/Ground.png) |
+
+
